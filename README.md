@@ -3,10 +3,8 @@
 ## 👨‍💻 Mengenai Saya
 Saya baru sahaja memulakan perjalanan saya dalam dunia pengaturcaraan dan GitHub!
 
-- 🔭 Saya kini sedang belajar: **[Bahasa / Teknologi, contoh: HTML, CSS, JavaScript, Python]**
+- 🔭 Saya kini sedang belajar: **[Data Engineering]**
 - 🌱 Matlamat saya: **Menjadi pembangun perisian yang mahir**
-- 💬 Tanya saya mengenai: **[Topik yang anda tahu / minat]**
-- ⚡ Fakta menarik: **[Hobi atau fakta mengenai anda]**
 
 ---
 
