@@ -17,7 +17,7 @@ Saya baru sahaja memulakan perjalanan saya dalam dunia pengaturcaraan dan GitHub
 ---
 
 ### 📫 Hubungi Saya
-- **LinkedIn:** [Profil LinkedIn Anda](https://www.linkedin.com/in/yaswant-balan-232959430?utm_source=share_via&utm_content=profile&utm_medium=member_ios)
+- **LinkedIn:** [https://www.linkedin.com/in/yaswant-balan-232959430?utm_source=share_via&utm_content=profile&utm_medium=member_ios]
 - **Emel:** [yaswant@graduate.utm.my](mailto:yaswant@graduate.utm.my)
 
 <!--
